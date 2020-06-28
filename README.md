@@ -1,2 +1,2 @@
 # KontenProfil
-Proejct Konten-Profil Sederhana
+Proejct Konten-Profil Sederhana dengan PPHP dan Mysql
